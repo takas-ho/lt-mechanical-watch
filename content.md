@@ -111,6 +111,9 @@ Note:
 
 ## パテック・フィリップ
 
+Note:
+きいたことある？
+
 ---
 
 <!-- .slide: data-background-image="img/パテックフィリップ.jpg" data-background-size="100%" -->
