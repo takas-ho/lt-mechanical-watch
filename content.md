@@ -205,6 +205,10 @@ Note:
 
 <!-- .slide: data-background-image="img/ブレゲクラシックトゥールビヨン5317.jpg" data-background-size="100%" -->
 
+Note:
+ふ☻れけ☻ははりに こうほ☻うを
+ た☻す それか いま ふ☻れけ☻
+ 
 ---
 
 <!-- .slide: data-background-image="img/ブレゲクラシックトゥールビヨン5317.jpg" data-background-size="100%" -->
